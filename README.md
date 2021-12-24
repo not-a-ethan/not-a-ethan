@@ -1,4 +1,4 @@
-- 🔭 I’m currently working a Unit converter in JS
+- 🔭 I’m currently working a GH repository template.
 - 🌱 I’m currently learning Python 3
 - 👯 I’m looking to collaborate on my unit converter
 - 🤔 I’m looking for help with nothing as of now
