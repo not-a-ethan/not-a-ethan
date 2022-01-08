@@ -25,8 +25,8 @@ ___
 
 <br />
 <br />
-<br />
-<br />
+
+___
 
 <img align="left" src = "https://github-readme-stats.vercel.app/api?username=Ethan-Master-Coding&count_private=true&show_icons=true&theme=dark" />
 
