@@ -18,10 +18,10 @@ ___
 ### Languages and Tools:
 
 <img align="left" alt="HTML Logo" width="26px" src="./HTML.png" />
-<img align="left" alt="HTML Logo" width="26px" src="./CSS.png" />
-<img align="left" alt="HTML Logo" width="26px" src="./JS.png" />
-<img align="left" alt="HTML Logo" width="26px" src="./Python.png" />
-<img align="left" alt="HTML Logo" width="26px" src="./GitHub.png" />
+<img align="left" alt="CSS Logo" width="26px" src="./CSS.png" />
+<img align="left" alt="JS Logo" width="26px" src="./JS.png" />
+<img align="left" alt="Python Logo" width="26px" src="./Python.png" />
+<img align="left" alt="Github Logo" width="26px" src="./github.png" />
 
 <br />
 <br />
