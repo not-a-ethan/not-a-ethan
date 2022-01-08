@@ -32,6 +32,8 @@ ___
 
 <img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Master-Coding&theme=dark" />
 
+<br />
+<br />
 
 ### 📺 Latest YouTube Videos
 
