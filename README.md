@@ -31,3 +31,9 @@ ___
 <img align="left" src = "https://github-readme-stats.vercel.app/api?username=Ethan-Master-Coding&count_private=true&show_icons=true&theme=dark" />
 
 <img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Master-Coding&theme=dark" />
+
+
+### 📺 Latest YouTube Videos
+
+<!-- YOUTUBE:START -->
+<!-- YOUTUBE:END -->
