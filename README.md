@@ -17,11 +17,12 @@ ___
 
 ### Languages and Tools:
 
-<img align="left" alt="HTML Logo" width="26px" src="./HTML.png" />
-<img align="left" alt="CSS Logo" width="26px" src="./CSS.png" />
-<img align="left" alt="JS Logo" width="26px" src="./JS.png" />
-<img align="left" alt="Python Logo" width="26px" src="./Python.png" />
-<img align="left" alt="Github Logo" width="26px" src="./github.png" />
+<img align="left" alt="HTML Logo" width="25px" src="./HTML.png" />
+<img align="left" alt="CSS Logo" width="25px" src="./CSS.png" />
+<img align="left" alt="JS Logo" width="25px" src="./JS.png" /> 
+<img align="left" alt="Python Logo" width="25px" src="./Python.png" />
+<img align="left" alt="Github Logo" width="25px" src="./github.png" />
+<img align="left" alt="Replit Logo" width="25px" src="./replit.png" />
 
 <br />
 <br />
