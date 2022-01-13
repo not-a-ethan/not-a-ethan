@@ -5,8 +5,7 @@
 - 👯 I’m looking to collaborate on my unit converter
 - 🤔 I’m looking for help with nothing as of now
 - 💬 Ask me about HTML, CSS or American history
-- 🥅 2022 goals: Finish learning Python, learn Phaser js and finish atlest 75% of the [CS course](https://www.codecademy.com/learn/paths/computer-science) on codecademy
-
+- 🥅 2022 goals: Finish the CS and Phaser.js paths on Codecademy.
 ___
 
 ### Contact Me
