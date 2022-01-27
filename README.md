@@ -1,7 +1,7 @@
 ## Hey there, Im [Ethan](https://ethan-master-coding.github.io/My-work/) 👋
 
-- 🔭 I’m currently working on learning Python
-- 🌱 I’m currently learning Python 3
+- 🔭 I’m currently working on learning CS
+- 🌱 I’m currently learning CS
 - 👯 I’m looking to collaborate on my unit converter
 - 🤔 I’m looking for help with nothing as of now
 - 💬 Ask me about HTML, CSS or American history
