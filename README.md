@@ -39,6 +39,7 @@ ___
 ### 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [Top 3 IDEs in 2022 | How To Program #shorts](https://www.youtube.com/watch?v=xW6EkjnjEXQ)
 - [Best places to learn to program in 2022 | How To Program #shorts](https://www.youtube.com/watch?v=qLV5--VUEUI)
 - [Best programming languages to learn in 2022 #shorts](https://www.youtube.com/watch?v=nJ9qdTXWRR0)
 - [Trailer | How To Program](https://www.youtube.com/watch?v=h4DTF2_tcXI)
