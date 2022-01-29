@@ -33,6 +33,8 @@ ___
 
 <img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Master-Coding&theme=dark" />
 
+[![Ethan-Master-Coding's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ethan)](https://github.com/anuraghazra/github-readme-stats)
+
 <br />
 <br />
 
@@ -44,3 +46,4 @@ ___
 - [Best programming languages to learn in 2022 #shorts](https://www.youtube.com/watch?v=nJ9qdTXWRR0)
 - [Trailer | How To Program](https://www.youtube.com/watch?v=h4DTF2_tcXI)
 <!-- YOUTUBE:END -->
+
