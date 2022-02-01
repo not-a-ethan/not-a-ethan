@@ -33,7 +33,7 @@ ___
 
 <img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Master-Coding&theme=dark" />
 
-[![Ethan-Master-Coding's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=Ethan)](https://github.com/anuraghazra/github-readme-stats)
+[![Ethan-Master-Coding's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=How_To_Program)](https://github.com/anuraghazra/github-readme-stats)
 
 <br />
 <br />
