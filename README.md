@@ -1,4 +1,4 @@
-## Hey there, Im [Ethan](https://ethan-master-coding.github.io/My-work/) 👋
+# Hey there, Im [Ethan](https://ethan-master-coding.github.io/My-work/) 👋
 
 - 🔭 I’m currently working on learning CS
 - 🌱 I’m currently learning CS
@@ -8,13 +8,13 @@
 - 🥅 2022 goals: Finish the CS and Phaser.js paths on Codecademy.
 ___
 
-### Contact Me
+## Contact Me
 - Reach me on discord How To Program#9498
 - Reach the on the [codecademy forums](https://discuss.codecademy.com/u/ethanmasterprogram/summary)
 
 ___
 
-### Languages and Tools:
+## Languages and Tools:
 
 <img align="left" alt="HTML Logo" width="25px" height="25px" src="./HTML.png" />
 <img align="left" alt="CSS Logo" width="25px" height="25px" src="./CSS.png" />
@@ -38,7 +38,7 @@ ___
 <br />
 <br />
 
-### 📺 Latest YouTube Videos
+## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
 - [Top 3 IDEs in 2022 | How To Program #shorts](https://www.youtube.com/watch?v=xW6EkjnjEXQ)
