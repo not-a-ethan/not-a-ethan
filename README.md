@@ -41,7 +41,7 @@ ___
 
 <details align="left">
 <summary><strong>Commit Streak🔥</strong></summary>
-<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ethan-master-coding&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+<img align="left" src="[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=ethan-master-coding&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)" />
 </details>
 
 <br />
