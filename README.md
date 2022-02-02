@@ -28,6 +28,7 @@ ___
 <br />
 
 ___
+
 <details align="left">
 <summary>Profile Stats 💻</summary>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ethan-Master-Coding&count_private=true&show_icons=true&theme=dark" />
@@ -50,7 +51,9 @@ ___
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=How_To_Program" />
 </details>
 
+<br />
 ___
+<br />
 
 ## 📺 Latest YouTube Videos
 
