@@ -50,8 +50,7 @@ ___
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=How_To_Program" />
 </details>
 
-<br />
-<br />
+___
 
 ## 📺 Latest YouTube Videos
 
