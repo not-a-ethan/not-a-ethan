@@ -28,12 +28,21 @@ ___
 <br />
 
 ___
+<details>
+<summary>Profile Stats 💻</summary>
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=Ethan-Master-Coding&count_private=true&show_icons=true&theme=dark" />
 
-<img align="left" src = "https://github-readme-stats.vercel.app/api?username=Ethan-Master-Coding&count_private=true&show_icons=true&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Master-Coding&theme=dark" />
 
-<img align="left" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Master-Coding&theme=dark" />
-
-[![Ethan-Master-Coding's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=How_To_Program)](https://github.com/anuraghazra/github-readme-stats)
+</details>
+<details>
+<summary>Commit Streak🔥</summary>
+<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ethan-master-coding&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
+</details>
+<details>
+<summary>Wakatime Stats🕛</summary>
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=How_To_Program" />
+</details>
 
 <br />
 <br />
@@ -46,4 +55,3 @@ ___
 - [Best programming languages to learn in 2022 #shorts](https://www.youtube.com/watch?v=nJ9qdTXWRR0)
 - [Trailer | How To Program](https://www.youtube.com/watch?v=h4DTF2_tcXI)
 <!-- YOUTUBE:END -->
-
