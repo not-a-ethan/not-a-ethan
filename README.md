@@ -29,32 +29,18 @@ ___
 
 ___
 
-<details align="left">
-<summary><strong>Profile Stats 💻</strong></summary>
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ethan-Master-Coding&count_private=true&show_icons=true&theme=dark" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Master-Coding&theme=dark" />
 
-</details>
-
-<br />
-
-<details align="left">
-<summary><strong>Commit Streak🔥</strong></summary>
-<img align="left" src="http://github-readme-streak-stats.herokuapp.com?user=ethan-master-coding&theme=dark&date_format=M%20j%5B%2C%20Y%5D" />
-</details>
-
-<br />
-
-<details align="left">
-<summary><strong>Wakatime Stats🕛</strong></summary>
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=How_To_Program" />
-</details>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ethan-master-coding&theme=dark&date-format=n%2Fj%5B%2FY%5D&type=png" />
 
 <br />
 
 ___
 
+<br />
+<br />
 <br />
 
 ## 📺 Latest YouTube Videos
