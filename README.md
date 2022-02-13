@@ -31,7 +31,7 @@ ___
 
 <img align="left" src="https://github-readme-stats.vercel.app/api?username=Ethan-Master-Coding&count_private=true&show_icons=true&theme=dark" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Master-Coding&theme=dark" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Master-Coding&theme=dark&langs_count=4" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethan-master-coding&theme=dark&date-format=n%2Fj%5B%2FY%5D&type=png" />
 
