@@ -48,9 +48,9 @@ ___
 ## 📺 Latest YouTube Videos
 
 <!-- YOUTUBE:START -->
+- [3 reasons to use GH | How To Program #shorts](https://www.youtube.com/watch?v=Vx6a4MD3tWU)
 - [Best places to get help with programing in 2022 | How To Program #shorts](https://www.youtube.com/watch?v=HCTumg-MbO8)
 - [Top 3 best areas of tech to go into 2022 | How To Program #shorts](https://www.youtube.com/watch?v=vTF-GSOBhm4)
 - [Top 3 backend web development languages 2022 | How To Program #shorts](https://www.youtube.com/watch?v=NAzmy1nnm7k)
 - [Top 3 IDEs in 2022 | How To Program #shorts](https://www.youtube.com/watch?v=xW6EkjnjEXQ)
-- [Best places to learn to program in 2022 | How To Program #shorts](https://www.youtube.com/watch?v=qLV5--VUEUI)
 <!-- YOUTUBE:END -->
