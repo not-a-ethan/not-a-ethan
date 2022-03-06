@@ -62,3 +62,5 @@ ___
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
+
+<img align="left" alt="README trophy" src="https://github-profile-trophy.vercel.app/?username=ethan-master-coding" />
