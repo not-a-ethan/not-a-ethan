@@ -53,7 +53,7 @@ ___
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=How_To_Program" />
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Master-Coding&theme=dark&langs_count=4" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Master-Coding&theme=dark&hide=shell,ruby" />
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ethan-Master-Coding&count_private=true&show_icons=true&theme=dark" />
 
