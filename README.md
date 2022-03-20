@@ -59,6 +59,7 @@ ___
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethan-master-coding&theme=dark&date-format=n%2Fj%5B%2FY%5D&type=png" />
 
+<img src="https://komarev.com/ghpvc/?username=your-Ethan-Master-Coding" />
 
 <!-- YOUTUBE:START -->
 <!-- YOUTUBE:END -->
