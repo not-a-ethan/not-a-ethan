@@ -38,6 +38,7 @@ ___
 
 <img align="left" alt="Codecademy logo" src="https://camo.githubusercontent.com/12bb324f5b43a7f24ebbaac4bda2c665f99fdac79fb970846074007bb6b83a0d/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f436f6465636164656d792d4646463045353f7374796c653d666f722d7468652d6261646765266c6f676f3d636f6465636164656d79266c6f676f436f6c6f723d333033333437" />
 
+<img align="left" alt="Open sourse stats" src="https://github.com/Ethan-Master-Coding/github-stats/blob/master/generated/overview.svg"
 <img align="left" alt="Replit logo" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
 
 <br />
