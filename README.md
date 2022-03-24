@@ -57,7 +57,7 @@ ___
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ethan-Master-Coding&count_private=true&show_icons=true&theme=dark" />
 
-<img align="left" alt="Open sourse stats" src="https://raw.githubusercontent.com/ethan-master-coding/open-sourse-stats/master/generated/overview.svg?token=GHSAT0AAAAAABSOKI45O6IWOZTARMUNJOSMYR4MMYQ" />
+<img align="left" alt="Open sourse stats" src="https://github.com/ethan-master-coding/github-stats/blob/master/generated/overview.svg" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethan-master-coding&theme=dark&date-format=n%2Fj%5B%2FY%5D&type=png" />
 
