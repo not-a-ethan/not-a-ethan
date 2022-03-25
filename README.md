@@ -1,4 +1,4 @@
-7# Hey there, I'm [Ethan](https://ethan-master-coding.github.io/My-work/) 👋
+Hey there, I'm [Ethan](https://ethan-master-coding.github.io/My-work/) 👋
 
 - 🔭 I’m currently working on a coin catalog [@Coin-Catalog](https://github.com/Coin-Catalog)
 - 🌱 I’m currently learning Phaser.js
