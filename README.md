@@ -1,4 +1,4 @@
-# Hey there, I'm [Ethan](https://ethan-master-coding.github.io/My-work/) 👋
+7# Hey there, I'm [Ethan](https://ethan-master-coding.github.io/My-work/) 👋
 
 - 🔭 I’m currently working on a coin catalog [@Coin-Catalog](https://github.com/Coin-Catalog)
 - 🌱 I’m currently learning Phaser.js
@@ -57,7 +57,7 @@ ___
 
 <img src="https://github-readme-stats.vercel.app/api?username=Ethan-Master-Coding&count_private=true&show_icons=true&theme=dark" />
 
-<img align="left" alt="Open sourse stats" src="https://raw.githubusercontent.com/ethan-master-coding/open-sourse-stats/64a4e2eb123106f210f9604ffca1c4bc583fc1be/generated/overview.svg?token=AWDES35PZUG2G2JA4BA4NL3CHSETW" />
+<img align="left" alt="Open sourse stats" src="https://github.com/ethan-master-coding/open-sourse-stats/blob/master/generated/overview.svg" />
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=ethan-master-coding&theme=dark&date-format=n%2Fj%5B%2FY%5D&type=png" />
 
