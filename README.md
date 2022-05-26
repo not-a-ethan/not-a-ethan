@@ -51,7 +51,7 @@ ___
 
 ___
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=How_To_Program&hide=Go,C,ActionScript 3, Java, Dart" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=How_To_Program&hide=Go,C,ActionScript 3, Java, Dart, Other" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Ethan-Master-Coding&theme=dark&hide=shell,ruby" />
 
