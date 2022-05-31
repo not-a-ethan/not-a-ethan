@@ -40,11 +40,13 @@ ___
 
 <img align="left" alt="Replit logo" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
 
+<img align="left" alt="Heroku logo" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
+     
 <br />
 
 ## Resources:
 
-<img align="left" alt="MDN webdocs logo" src="https://camo.githubusercontent.com/aa6ae4ef41d5350eae304c53fe673a6535f03fa2c96c0564a0611c720e550ea6/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f4d444e5f5765625f446f63732d626c61636b3f7374796c653d666f722d7468652d6261646765266c6f676f3d6d646e776562646f6373266c6f676f436f6c6f723d7768697465" />
+<img align="left" alt="MDN webdocs logo" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" />
 
 <br />
 <br />
