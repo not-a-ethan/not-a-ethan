@@ -10,8 +10,6 @@ ___
 
 ## Contact Me
 - Reach me on discord How To Program#9498
-- Reach the on the [codecademy forums](https://discuss.codecademy.com/u/how_to_program)
-
 ___
 
 ## Languages:
