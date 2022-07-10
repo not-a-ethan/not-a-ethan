@@ -9,7 +9,7 @@ Hey there, I'm [Ethan](https://ethan-master-coding.github.io/My-work/) 👋
 ___
 
 ## Contact Me
-- Reach me on discord How To Program#9498
+- ethan#6178
 ___
 
 ## Languages:
