@@ -9,6 +9,7 @@ Hey there, I'm [Ethan](https://ethan-master-coding.github.io/My-work/) 👋
 ___
 
 ## Contact Me
+- Reach me on [Project Nu](https://projectnu.org/u/ethan/summary)
 - Reach me on discord: `ethan#6178`
 ___
 
