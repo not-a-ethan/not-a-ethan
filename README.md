@@ -55,7 +55,7 @@ ___
 
 ___
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=not-a-ethan&hide=Go,C,ActionScript 3, Java, Dart, Bash, XML, Zig, Vala, Typescript, Standard ML, Other" />
+<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=not_a_ethan&hide=Go,C,ActionScript 3, Java, Dart, Bash, XML, Zig, Vala, Typescript, Standard ML, Other" />
 
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-a-ethan&theme=dark&hide=shell,ruby" />
 
