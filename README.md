@@ -67,7 +67,4 @@ ___
 
 <img src="https://komarev.com/ghpvc/?username=your-not-a-ethan" />
 
-<!-- YOUTUBE:START -->
-<!-- YOUTUBE:END -->
-
 <img align="left" alt="README trophy" src="https://github-profile-trophy.vercel.app/?username=not-a-ethan" />
