@@ -16,24 +16,18 @@ ___
 ## Languages:
 
 <img align="left" alt="HTML Logo" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-
 <img align="left" alt="CSS Logo" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
-
 <img align="left" alt="JS Logo" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
-
-<img align = "left" alt="Markdown logo" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+<img align="left" alt="Markdown logo" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
+<img align="left" alt="TypeScript logo" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
 
 <br />
 
 ## Tools:
 
 <img align="left" alt="Github Logo" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
-
 <img align="left" alt="VS code logo" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-
 <img align="left" alt="Replit logo" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
-
-<img align="left" alt="Heroku logo" src="https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white" />
 
 <br />
 <br />
