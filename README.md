@@ -1,7 +1,7 @@
 Hey there, I'm [Ethan](https://not-a-ethan.github.io/My-work/) 👋
 
 <!-- - 🔭 I’m currently working on [@Coin-Catalog](https://github.com/Coin-Catalog) -->
-- 🌱 I’m currently SQL
+- 🌱 I’m currently SQL as part of learning back end web dev
 <!-- - 👯 I’m looking to collaborate on my unit converter
 - 🤔 I’m looking for help with nothing as of now -->
 - 💬 Ask me about HTML, CSS or American history
