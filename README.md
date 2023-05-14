@@ -41,7 +41,6 @@ ___
 
 ___
 
-<img align="left" src="https://github-readme-stats.vercel.app/api/wakatime?username=not_a_ethan&hide=Go,C,ActionScript 3, Java, Dart, Bash, XML, Zig, Vala, Typescript, Standard ML, Nix, Other" />
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-a-ethan&theme=dark&hide=shell,ruby" />
 <img src="https://github-readme-stats.vercel.app/api?username=not-a-ethan&count_private=true&show_icons=true&theme=dark" />
 <img align="left" alt="Open sourse stats" src="https://github.com/not-a-ethan/open-sourse-stats/blob/master/generated/overview.svg" />
