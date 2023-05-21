@@ -18,23 +18,23 @@ ___
 <img align="left" alt="HTML Logo" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
 <img align="left" alt="CSS Logo" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
 <img align="left" alt="JS Logo" src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" /> 
-<img align="left" alt="Markdown logo" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 <img align="left" alt="TypeScript logo" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+<img align="left" alt="Markdown logo" src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" />
 
 <br />
 
 ## Tools:
 
-<img align="left" alt="Github Logo" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
+<a href="https://github.com/not-a-ethan"><img align="left" alt="Github Logo" src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" /></a>
 <img align="left" alt="VS code logo" src="https://img.shields.io/badge/Visual_Studio_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" />
-<img align="left" alt="Replit logo" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" />
+<a href="https://replit.com/@not-ethan"><img align="left" alt="Replit logo" src="https://img.shields.io/badge/replit-667881?style=for-the-badge&logo=replit&logoColor=white" /></a>
 <img align="left" alt="GH pages" src="https://img.shields.io/badge/GitHub%20Pages-222222?style=for-the-badge&logo=GitHub%20Pages&logoColor=white" />
      
 <br />
 
 ## Resources:
 
-<img align="left" alt="MDN webdocs logo" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" />
+<a href="https://developer.mozilla.org/en-US/"><img align="left" alt="MDN webdocs logo" src="https://img.shields.io/badge/MDN_Web_Docs-black?style=for-the-badge&logo=mdnwebdocs&logoColor=white" /></a>
 
 <br />
 <br />
