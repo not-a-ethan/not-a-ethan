@@ -10,7 +10,7 @@ ___
 
 ## Contact Me
 - Reach me on [Project Nu](https://projectnu.org/u/ethan/summary)
-- Reach me on discord: `Ethan#6264`
+- Reach me on discord: `not_ethan.`
 ___
 
 ## Languages:
