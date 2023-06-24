@@ -9,7 +9,8 @@ Hey there, I'm [Ethan](https://not-a-ethan.github.io/My-work/) 👋
 ___
 
 ## Contact Me
-- Reach me on [Project Nu](https://projectnu.org/u/ethan/summary)
+<!-- - Reach me on [Project Nu](https://projectnu.org/u/ethan/summary) -->
+- Reach me on [Replit Ask](https://ask.replit.com/u/not-ethan/)
 - Reach me on discord: `not_ethan.`
 ___
 
