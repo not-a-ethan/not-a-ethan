@@ -45,5 +45,8 @@ ___
 <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs/?username=not-a-ethan&theme=dark&hide=shell,ruby,python,nix" />
 <img src="https://github-readme-stats.vercel.app/api?username=not-a-ethan&count_private=true&show_icons=true&theme=dark" />
 <img align="left" alt="Open sourse stats" src="https://github.com/not-a-ethan/open-sourse-stats/blob/master/generated/overview.svg" />
+
+<!--START_SECTION:waka-->
+<!--END_SECTION:waka-->
 <img src="https://komarev.com/ghpvc/?username=your-not-a-ethan" />
 <img align="left" alt="README trophy" src="https://github-profile-trophy.vercel.app/?username=not-a-ethan" />
