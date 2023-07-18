@@ -47,6 +47,15 @@ ___
 <img align="left" alt="Open sourse stats" src="https://github.com/not-a-ethan/open-sourse-stats/blob/master/generated/overview.svg" />
 
 <!--START_SECTION:waka-->
+
+```txt
+JavaScript   14 hrs 8 mins   ████████████▒░░░░░░░░░░░░   48.77 %
+TypeScript   12 hrs 47 mins  ███████████░░░░░░░░░░░░░░   44.14 %
+CSS          1 hr 18 mins    █░░░░░░░░░░░░░░░░░░░░░░░░   04.54 %
+Other        11 mins         ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.67 %
+Git Config   11 mins         ░░░░░░░░░░░░░░░░░░░░░░░░░   00.64 %
+```
+
 <!--END_SECTION:waka-->
 <img src="https://komarev.com/ghpvc/?username=your-not-a-ethan" />
 <img align="left" alt="README trophy" src="https://github-profile-trophy.vercel.app/?username=not-a-ethan" />
