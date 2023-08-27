@@ -25,6 +25,7 @@ ___
 <img align="left" alt="Next.js logo" src="https://img.shields.io/badge/next%20js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" />
 
 <br />
+<br />
 
 ## Tools:
 
