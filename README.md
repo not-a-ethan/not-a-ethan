@@ -48,9 +48,11 @@ ___
 <!--START_SECTION:waka-->
 
 ```txt
-Markdown     2 mins          ████████████░░░░░░░░░░░░░   48.12 %
-TypeScript   2 mins          █████████▒░░░░░░░░░░░░░░░   36.73 %
-JavaScript   0 secs          ███▓░░░░░░░░░░░░░░░░░░░░░   15.16 %
+Java         10 mins         ████████████████▒░░░░░░░░   65.04 %
+Markdown     2 mins          ████▓░░░░░░░░░░░░░░░░░░░░   18.91 %
+TypeScript   2 mins          ███▓░░░░░░░░░░░░░░░░░░░░░   14.44 %
+Batchfile    0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.82 %
+JavaScript   0 secs          ▒░░░░░░░░░░░░░░░░░░░░░░░░   00.80 %
 ```
 
 <!--END_SECTION:waka-->
