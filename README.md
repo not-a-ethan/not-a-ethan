@@ -22,7 +22,7 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=not-a-ethan&show_icons=true&locale=en&theme=dark" alt="not-a-ethan" /></p>
 
-<p><img align="left" src="https://github-readme-streak-stats.herokuapp.com/?user=not-a-ethan&theme=dark" alt="not-a-ethan" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=not-a-ethan&theme=dark" alt="not-a-ethan" /></p>
 
 <br />
 
