@@ -35,3 +35,11 @@ No activity tracked
 ```
 
 <!--END_SECTION:waka-->
+
+___
+
+### Support
+
+If you want to support me, use my refferal link
+
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=dea049b7c215&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
