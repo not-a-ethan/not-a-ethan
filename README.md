@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=not-a-ethan" alt="not-a-ethan" /></a> </p>
 
-- 🔭 I’m currently working on [a time tracker](https://github.com/not-a-ethan/time-tracker)
+- 🔭 I’m currently working on [a chat app](https://github.com/not-a-ethan/chat-app)
 
 - 🌱 I’m currently learning **PostgreSQL & NextAuth**
 
