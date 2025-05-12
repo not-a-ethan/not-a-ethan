@@ -26,16 +26,6 @@
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=not-a-ethan&theme=dark" alt="not-a-ethan" /></p>
 
-<br />
-
-<!--START_SECTION:waka-->
-
-```txt
-No activity tracked
-```
-
-<!--END_SECTION:waka-->
-
 ___
 
 ### Support
