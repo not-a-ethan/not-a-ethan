@@ -5,11 +5,11 @@
 
 - 🔭 I’m currently working on [a chat app](https://github.com/not-a-ethan/chat-app)
 
-- 🌱 I’m currently learning **PostgreSQL & NextAuth**
+<!-- 🌱 I’m currently learning **PostgreSQL & NextAuth**-->
 
 - 👨‍💻 All of my projects are available at [https://not-ethan.tech/projects](https://not-ethan.tech/projects)
 
-- [Support me](https://not-ethan.tech/support) 
+<!-- - [Support me](https://not-ethan.tech/support) -->
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
@@ -27,9 +27,10 @@
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=not-a-ethan&theme=dark" alt="not-a-ethan" /></p>
 
 ___
-
+<!--
 ### Support
 
 If you want to support me, use my refferal link
 
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=dea049b7c215&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+-->
